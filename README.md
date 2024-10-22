@@ -1,5 +1,7 @@
 # InstallerX-new
 
+## NO LGBTQ+
+
 ## 介绍
 
 一款应用安装程序，为什么不试试【InstallerX-new】？
